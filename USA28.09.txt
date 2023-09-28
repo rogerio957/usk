@@ -1,0 +1,916 @@
+#EXTM3U
+#EXTINF:-1,USA | A&E
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39189.ts
+#EXTINF:-1,USA | ABC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39190.ts
+#EXTINF:-1,USA | ABC NEWS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39191.ts
+#EXTINF:-1,USA | ACC Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39192.ts
+#EXTINF:-1,USA | ActionMax
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39193.ts
+#EXTINF:-1,USA | Adventure Sports Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39194.ts
+#EXTINF:-1,USA | AKC TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39195.ts
+#EXTINF:-1,USA | AMERICAN HEROES CHANNEL
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39197.ts
+#EXTINF:-1,USA | ANIMAL PLANET
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39198.ts
+#EXTINF:-1,USA | Animal Planet West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39199.ts
+#EXTINF:-1,USA | Antenna TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39200.ts
+#EXTINF:-1,USA | AT&T Sportsnet South West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39201.ts
+#EXTINF:-1,USA | AWE A Wealth of Entertainment
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39202.ts
+#EXTINF:-1,USA | AXS TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39203.ts
+#EXTINF:-1,USA | BabyTV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39204.ts
+#EXTINF:-1,USA | BBC America
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39205.ts
+#EXTINF:-1,USA | BBC World News
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39206.ts
+#EXTINF:-1,USA | beIN Sports 01
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39207.ts
+#EXTINF:-1,USA | beIN Sports 02
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39208.ts
+#EXTINF:-1,USA | beIN Sports 05
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39211.ts
+#EXTINF:-1,USA | beIN Sports 06
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39212.ts
+#EXTINF:-1,USA | beIN Sports 07
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39213.ts
+#EXTINF:-1,USA | beIN Sports 08
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39214.ts
+#EXTINF:-1,USA | BET
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39220.ts
+#EXTINF:-1,USA | BET Her
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39221.ts
+#EXTINF:-1,USA | BET Jams
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39222.ts
+#EXTINF:-1,USA | BET Soul
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39223.ts
+#EXTINF:-1,USA | Big Ten Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39225.ts
+#EXTINF:-1,USA | Bloomberg
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39226.ts
+#EXTINF:-1,USA | Boomerang
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39227.ts
+#EXTINF:-1,USA | Bounce TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39228.ts
+#EXTINF:-1,USA | BRAVO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39229.ts
+#EXTINF:-1,USA | Bravo West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39230.ts
+#EXTINF:-1,USA | Buzzr
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39231.ts
+#EXTINF:-1,USA | C-Span 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39232.ts
+#EXTINF:-1,USA | C-Span 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39233.ts
+#EXTINF:-1,USA | C-Span 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39234.ts
+#EXTINF:-1,USA | CARTOON NETWORK [E]
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39235.ts
+#EXTINF:-1,USA | CBS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39236.ts
+#EXTINF:-1,USA | CBS Sports Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39237.ts
+#EXTINF:-1,USA | Cheddar
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39238.ts
+#EXTINF:-1,USA | Cinema 01
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39239.ts
+#EXTINF:-1,USA | Cinema 02
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39240.ts
+#EXTINF:-1,USA | Cinema 03
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39241.ts
+#EXTINF:-1,USA | Cinema 04
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39242.ts
+#EXTINF:-1,USA | Cinema 05
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39243.ts
+#EXTINF:-1,USA | Cinema 06
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39244.ts
+#EXTINF:-1,USA | Cinema 07
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39245.ts
+#EXTINF:-1,USA | Cinema 08
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39246.ts
+#EXTINF:-1,USA | Cinema 09
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39247.ts
+#EXTINF:-1,USA | Cinema 11
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39248.ts
+#EXTINF:-1,USA | Cinema 12
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39249.ts
+#EXTINF:-1,USA | Cinema 13
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39250.ts
+#EXTINF:-1,USA | Cinema 14
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39251.ts
+#EXTINF:-1,USA | Cinema 15
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39252.ts
+#EXTINF:-1,USA | Cinema 16
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39253.ts
+#EXTINF:-1,USA | Cinema 17
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39254.ts
+#EXTINF:-1,USA | Cinema 18
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39255.ts
+#EXTINF:-1,USA | Cinema 19
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39256.ts
+#EXTINF:-1,USA | Cinema 21
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39258.ts
+#EXTINF:-1,USA | Cinema 22
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39259.ts
+#EXTINF:-1,USA | Cinema 23
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39260.ts
+#EXTINF:-1,USA | Cinema 24
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39261.ts
+#EXTINF:-1,USA | Cinema 25
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39262.ts
+#EXTINF:-1,USA | Cinema 26
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39263.ts
+#EXTINF:-1,USA | Cinema 27
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39264.ts
+#EXTINF:-1,USA | Cinema 28
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39265.ts
+#EXTINF:-1,USA | Cinema 29
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39266.ts
+#EXTINF:-1,USA | Cinema 30
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39267.ts
+#EXTINF:-1,USA | Cinema 31
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39268.ts
+#EXTINF:-1,USA | Cinema 32
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39269.ts
+#EXTINF:-1,USA | Cinema 33
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39270.ts
+#EXTINF:-1,USA | Cinema 34
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39271.ts
+#EXTINF:-1,USA | Cinema 35
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39272.ts
+#EXTINF:-1,USA | Cinema 36
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39273.ts
+#EXTINF:-1,USA | Cinema 38
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39274.ts
+#EXTINF:-1,USA | Cinema 39
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39275.ts
+#EXTINF:-1,USA | Cinema 40
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39277.ts
+#EXTINF:-1,USA | Cinemáx East
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39278.ts
+#EXTINF:-1,USA | CineMáx
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39279.ts
+#EXTINF:-1,USA | CMT
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39280.ts
+#EXTINF:-1,USA | CNBC WORLD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39282.ts
+#EXTINF:-1,USA | CNN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39283.ts
+#EXTINF:-1,USA | COMEDY CENTRAL
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39284.ts
+#EXTINF:-1,USA | COMEDY CENTRAL West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39285.ts
+#EXTINF:-1,USA | Comet
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39286.ts
+#EXTINF:-1,USA | Cooking Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39287.ts
+#EXTINF:-1,USA | Court TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39288.ts
+#EXTINF:-1,USA | COZI TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39289.ts
+#EXTINF:-1,USA | Destination America
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39290.ts
+#EXTINF:-1,USA | Discovery Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39291.ts
+#EXTINF:-1,USA | Discovery Family
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39292.ts
+#EXTINF:-1,USA | Discovery Life
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39293.ts
+#EXTINF:-1,USA | Discovery Science
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39294.ts
+#EXTINF:-1,USA | Discovery West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39295.ts
+#EXTINF:-1,USA | Disney Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39296.ts
+#EXTINF:-1,USA | Disney XD [E]
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39297.ts
+#EXTINF:-1,USA | DIY Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39298.ts
+#EXTINF:-1,USA | Dove
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39299.ts
+#EXTINF:-1,USA | E!
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39300.ts
+#EXTINF:-1,USA | E! West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39301.ts
+#EXTINF:-1,USA | Eleven Sports
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39303.ts
+#EXTINF:-1,USA | EPIX
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39304.ts
+#EXTINF:-1,USA | EPIX 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39305.ts
+#EXTINF:-1,USA | EPIX Drive-In
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39306.ts
+#EXTINF:-1,USA | EPIX Hits
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39307.ts
+#EXTINF:-1,USA | ESPN DEPORTES
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39310.ts
+#EXTINF:-1,USA | ESPN U
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39313.ts
+#EXTINF:-1,USA | Food Network [E]
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39314.ts
+#EXTINF:-1,USA | Food Network [W]
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39315.ts
+#EXTINF:-1,USA | Fox Business
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39316.ts
+#EXTINF:-1,USA | Fox College Sports - Pacific
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39319.ts
+#EXTINF:-1,USA | Fox Deportes
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39320.ts
+#EXTINF:-1,USA | Fox News
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39322.ts
+#EXTINF:-1,USA | Fox Soccer Plus
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39323.ts
+#EXTINF:-1,USA | Fox Sports 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39324.ts
+#EXTINF:-1,USA | Fox Sports 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39325.ts
+#EXTINF:-1,USA | BALLY Sports SouthWest
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39339.ts
+#EXTINF:-1,USA | BALLY Sports Sun
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39341.ts
+#EXTINF:-1,USA | Freeform
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39345.ts
+#EXTINF:-1,USA | Fuse
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39346.ts
+#EXTINF:-1,USA | Fusion
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39347.ts
+#EXTINF:-1,USA | FX
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39348.ts
+#EXTINF:-1,USA | FXM
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39349.ts
+#EXTINF:-1,USA | FXX
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39350.ts
+#EXTINF:-1,USA | FYI
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39351.ts
+#EXTINF:-1,USA | Get TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39352.ts
+#EXTINF:-1,USA | GINX ESports
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39353.ts
+#EXTINF:-1,USA | Golf Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39354.ts
+#EXTINF:-1,USA | Gone Fishing
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39355.ts
+#EXTINF:-1,USA | Great American Country
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39356.ts
+#EXTINF:-1,USA | Grit TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39357.ts
+#EXTINF:-1,USA | GSN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39358.ts
+#EXTINF:-1,USA | H2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39359.ts
+#EXTINF:-1,USA | Hallmark Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39360.ts
+#EXTINF:-1,USA | Hallmark Drama
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39361.ts
+#EXTINF:-1,USA | Hallmark Movies & Mysteries
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39362.ts
+#EXTINF:-1,USA | HBO 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39363.ts
+#EXTINF:-1,USA | HBO Comedy
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39364.ts
+#EXTINF:-1,USA | HBO HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39366.ts
+#EXTINF:-1,USA | HBO LATINO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39367.ts
+#EXTINF:-1,USA | HBO Signature
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39368.ts
+#EXTINF:-1,USA | HBO Zone
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39369.ts
+#EXTINF:-1,USA | Heroes & Icons
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39371.ts
+#EXTINF:-1,USA | HGTV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39372.ts
+#EXTINF:-1,USA | HGTV West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39373.ts
+#EXTINF:-1,USA | HISTORY HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39374.ts
+#EXTINF:-1,USA | HLN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39375.ts
+#EXTINF:-1,USA | HSN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39377.ts
+#EXTINF:-1,USA | IFC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39379.ts
+#EXTINF:-1,USA | INSP
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39381.ts
+#EXTINF:-1,USA | Investigation Discovery
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39382.ts
+#EXTINF:-1,USA | ION Television
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39383.ts
+#EXTINF:-1,USA | Law & Crime Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39385.ts
+#EXTINF:-1,USA | Lifetime
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39386.ts
+#EXTINF:-1,USA | Lifetime Movie Network HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39387.ts
+#EXTINF:-1,USA | LOCAL NOW
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39388.ts
+#EXTINF:-1,USA | Logo
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39389.ts
+#EXTINF:-1,USA | MavTV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39390.ts
+#EXTINF:-1,USA | Me TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39391.ts
+#EXTINF:-1,USA | MLB Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39392.ts
+#EXTINF:-1,USA | MoreMáx
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39393.ts
+#EXTINF:-1,USA | Motor Trend
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39395.ts
+#EXTINF:-1,USA | MovieMáx
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39396.ts
+#EXTINF:-1,USA | MoviePlex
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39397.ts
+#EXTINF:-1,USA | MSG 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39398.ts
+#EXTINF:-1,USA | MSG 2 +
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39399.ts
+#EXTINF:-1,USA | MSG
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39400.ts
+#EXTINF:-1,USA | MSG+
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39401.ts
+#EXTINF:-1,USA | MSNBC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39402.ts
+#EXTINF:-1,USA | MTV 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39403.ts
+#EXTINF:-1,USA | MTV Classic
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39404.ts
+#EXTINF:-1,USA | MTV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39405.ts
+#EXTINF:-1,USA | MTV Live
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39406.ts
+#EXTINF:-1,USA | Nat Geo Wild
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39407.ts
+#EXTINF:-1,USA | National Geographic
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39408.ts
+#EXTINF:-1,USA | NBC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39410.ts
+#EXTINF:-1,USA | NBC Universo
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39411.ts
+#EXTINF:-1,USA | NBCSN Bay Area
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39412.ts
+#EXTINF:-1,USA | NBCSN Boston
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39413.ts
+#EXTINF:-1,USA | NBCSN Chicago
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39414.ts
+#EXTINF:-1,USA | NBCSN Chicago+
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39415.ts
+#EXTINF:-1,USA | NBCSN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39416.ts
+#EXTINF:-1,USA | NBCSN Northwest
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39417.ts
+#EXTINF:-1,USA | NBCSN Philadelphia
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39418.ts
+#EXTINF:-1,USA | NBCSN Washington
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39419.ts
+#EXTINF:-1,USA | NESN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39421.ts
+#EXTINF:-1,USA | NESN+
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39422.ts
+#EXTINF:-1,USA | Newsy
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39423.ts
+#EXTINF:-1,USA | NFL Redzone
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39425.ts
+#EXTINF:-1,USA | NHL Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39426.ts
+#EXTINF:-1,USA | Nick Music
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39427.ts
+#EXTINF:-1,USA | Nickelodeon
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39428.ts
+#EXTINF:-1,USA | Nicktoons
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39429.ts
+#EXTINF:-1,USA | One American Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39431.ts
+#EXTINF:-1,USA | OUTDOOR Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39432.ts
+#EXTINF:-1,USA | Cinemax OuterMáx
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39433.ts
+#EXTINF:-1,USA | Outside TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39434.ts
+#EXTINF:-1,USA | OVATION
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39435.ts
+#EXTINF:-1,USA | OWN TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39436.ts
+#EXTINF:-1,USA | Oxygen True Crime
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39437.ts
+#EXTINF:-1,USA | Oxygen West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39438.ts
+#EXTINF:-1,USA | PAC-12 Arizona
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39439.ts
+#EXTINF:-1,USA | PAC-12 Bay Area
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39440.ts
+#EXTINF:-1,USA | PAC-12 Los Angeles
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39441.ts
+#EXTINF:-1,USA | PAC-12 Mountain
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39442.ts
+#EXTINF:-1,USA | PAC-12 National
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39443.ts
+#EXTINF:-1,USA | PAC-12 Oregon
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39444.ts
+#EXTINF:-1,USA | PAC-12 Washington
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39445.ts
+#EXTINF:-1,USA | Paramount
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39446.ts
+#EXTINF:-1,USA | PBS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39447.ts
+#EXTINF:-1,USA | PBS Kids
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39448.ts
+#EXTINF:-1,USA | PixL
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39449.ts
+#EXTINF:-1,USA | Pursuit
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39450.ts
+#EXTINF:-1,USA | QVC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39451.ts
+#EXTINF:-1,USA | QVC 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39452.ts
+#EXTINF:-1,USA | RED Bull TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39454.ts
+#EXTINF:-1,USA | REELZ Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39455.ts
+#EXTINF:-1,USA | REVOLT
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39457.ts
+#EXTINF:-1,USA | RFD-TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39458.ts
+#EXTINF:-1,USA | SEC Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39460.ts
+#EXTINF:-1,USA | SHOWTIME 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39461.ts
+#EXTINF:-1,USA | SHOWTIME Beyond
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39462.ts
+#EXTINF:-1,USA | SHOWTIME Extreme
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39463.ts
+#EXTINF:-1,USA | SHOWTIME Family Zone
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39464.ts
+#EXTINF:-1,USA | SHOWTIME
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39465.ts
+#EXTINF:-1,USA | SHOWTIME Next
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39466.ts
+#EXTINF:-1,USA | SHOWTIME Showcase
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39467.ts
+#EXTINF:-1,USA | SHOWTIME Women
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39468.ts
+#EXTINF:-1,USA | SMITHSONIAN Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39469.ts
+#EXTINF:-1,USA | SNY
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39470.ts
+#EXTINF:-1,USA | SONY Movie Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39471.ts
+#EXTINF:-1,USA | SPECTRUM Sportsnet
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39472.ts
+#EXTINF:-1,USA | SPORTSMAN Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39473.ts
+#EXTINF:-1,USA | SPORTSNET 360
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39474.ts
+#EXTINF:-1,USA | SPORTSNET LA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39475.ts
+#EXTINF:-1,USA | SPORTSNET One
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39476.ts
+#EXTINF:-1,USA | SPORTSNET Ontario
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39477.ts
+#EXTINF:-1,USA | SPORTSNET World
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39479.ts
+#EXTINF:-1,USA | STADIUM 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39480.ts
+#EXTINF:-1,USA | STADIUM 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39481.ts
+#EXTINF:-1,USA | STADIUM 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39482.ts
+#EXTINF:-1,USA | STADIUM Overflow 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39484.ts
+#EXTINF:-1,USA | START TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39485.ts
+#EXTINF:-1,USA | STARZ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39486.ts
+#EXTINF:-1,USA | STARZ Cinema
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39487.ts
+#EXTINF:-1,USA | STARZ Comedy
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39488.ts
+#EXTINF:-1,USA | STARZ Edge
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39489.ts
+#EXTINF:-1,USA | STARZ Encore
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39490.ts
+#EXTINF:-1,USA | STARZ Encore Action
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39491.ts
+#EXTINF:-1,USA | STARZ Encore Black
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39492.ts
+#EXTINF:-1,USA | STARZ Encore Classic
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39493.ts
+#EXTINF:-1,USA | STARZ Encore Español
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39494.ts
+#EXTINF:-1,USA | STARZ Encore Family
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39495.ts
+#EXTINF:-1,USA | STARZ Encore Suspense
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39496.ts
+#EXTINF:-1,USA | STARZ West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39497.ts
+#EXTINF:-1,USA | STARZ Encore Western
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39498.ts
+#EXTINF:-1,USA | STARZ in Black
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39499.ts
+#EXTINF:-1,USA | STARZ Kids & Family
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39500.ts
+#EXTINF:-1,USA | Sundance TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39501.ts
+#EXTINF:-1,USA | SYFY HD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39502.ts
+#EXTINF:-1,USA | SYFY West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39503.ts
+#EXTINF:-1,USA | TASTEMADE
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39504.ts
+#EXTINF:-1,USA | TBS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39505.ts
+#EXTINF:-1,USA | TeenNick
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39506.ts
+#EXTINF:-1,USA | TELEMUNDO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39507.ts
+#EXTINF:-1,USA | TELEMUNDO - LAS Vegas (KBLR)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39508.ts
+#EXTINF:-1,USA | TELEMUNDO - 51 Miami (WSCV)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39509.ts
+#EXTINF:-1,USA | TELEMUNDO - Denver 25 (KDEN)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39510.ts
+#EXTINF:-1,USA | TELEMUNDO - Sacramento 3 (KCSO)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39511.ts
+#EXTINF:-1,USA | TENNIS Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39512.ts
+#EXTINF:-1,USA | BLAZE Media
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39513.ts
+#EXTINF:-1,USA | THE Cowboy Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39514.ts
+#EXTINF:-1,USA | THE Longhorn Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39517.ts
+#EXTINF:-1,USA | THE Weather Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39518.ts
+#EXTINF:-1,USA | THE Word Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39519.ts
+#EXTINF:-1,USA | ThrillerMax
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39520.ts
+#EXTINF:-1,USA | TLC [E]
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39521.ts
+#EXTINF:-1,USA | TNT
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39522.ts
+#EXTINF:-1,USA | TRAVEL Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39523.ts
+#EXTINF:-1,USA | TRAVEL Channel West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39524.ts
+#EXTINF:-1,USA | TruTV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39525.ts
+#EXTINF:-1,USA | TSN 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39526.ts
+#EXTINF:-1,USA | TSN 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39527.ts
+#EXTINF:-1,USA | TSN 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39528.ts
+#EXTINF:-1,USA | TSN 4
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39529.ts
+#EXTINF:-1,USA | TSN 5
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39530.ts
+#EXTINF:-1,USA | TUDN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39531.ts
+#EXTINF:-1,USA | TV Land
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39532.ts
+#EXTINF:-1,USA | TV One
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39533.ts
+#EXTINF:-1,USA | TVG Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39535.ts
+#EXTINF:-1,USA | TYT Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39537.ts
+#EXTINF:-1,USA | Unimas
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39538.ts
+#EXTINF:-1,USA | UNIVERSAL Kids
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39539.ts
+#EXTINF:-1,USA | Univision
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39540.ts
+#EXTINF:-1,USA | USA Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39541.ts
+#EXTINF:-1,USA | USA Network West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39542.ts
+#EXTINF:-1,USA | VH1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39543.ts
+#EXTINF:-1,USA | VICELAND
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39544.ts
+#EXTINF:-1,USA | WAPA America
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39545.ts
+#EXTINF:-1,USA | WETV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39546.ts
+#EXTINF:-1,USA | WGN America
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39547.ts
+#EXTINF:-1,USA | WORLD Fishing Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39549.ts
+#EXTINF:-1,USA | YES Network
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39551.ts
+#EXTINF:-1,USA | ZONA Futbol
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39552.ts
+#EXTINF:-1,USA | BALLY Sports Arizona
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/678507.ts
+#EXTINF:-1,USA | BALLY Sports Carolinas
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/678508.ts
+#EXTINF:-1,USA | BALLY Sports Detroit
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/678509.ts
+#EXTINF:-1,USA | BALLY Sports Midwest
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/678510.ts
+#EXTINF:-1,USA | BALLY Sports North
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/678511.ts
+#EXTINF:-1,USA | BALLY Sports West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/678512.ts
+#EXTINF:-1,USA | ABC (San Diego)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683270.ts
+#EXTINF:-1,USA | ABC (Washington)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683271.ts
+#EXTINF:-1,USA | ABC (Sacramento)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683272.ts
+#EXTINF:-1,USA | ABC (Seattle)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683273.ts
+#EXTINF:-1,USA | ABC (Portland)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683274.ts
+#EXTINF:-1,USA | ABC (Salt Lake City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683275.ts
+#EXTINF:-1,USA | ABC (Chicago)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683276.ts
+#EXTINF:-1,USA | ABC (Pittsburgh)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683277.ts
+#EXTINF:-1,USA | ABC (Detroit)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683278.ts
+#EXTINF:-1,USA | ABC (Houston)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683279.ts
+#EXTINF:-1,USA | ABC (Phoenix)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683280.ts
+#EXTINF:-1,USA | ABC (Milwaukee)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683281.ts
+#EXTINF:-1,USA | ABC (Denver)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683282.ts
+#EXTINF:-1,USA | ABC (Boston)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683283.ts
+#EXTINF:-1,USA | ABC (Indianapolis)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683284.ts
+#EXTINF:-1,USA | ABC (Orlando)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683285.ts
+#EXTINF:-1,USA | ABC (Dallas)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683286.ts
+#EXTINF:-1,USA | ABC (San Francisco)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683287.ts
+#EXTINF:-1,USA | ABC (Miami)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683288.ts
+#EXTINF:-1,USA | ABC (Fresno)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683289.ts
+#EXTINF:-1,USA | ABC (San Antonio)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683290.ts
+#EXTINF:-1,USA | ABC (Kansas City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683291.ts
+#EXTINF:-1,USA | ABC (Baltimore)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683292.ts
+#EXTINF:-1,USA | ABC (Charlotte)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683293.ts
+#EXTINF:-1,USA | ABC (Atlanta)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683294.ts
+#EXTINF:-1,USA | CBS (Sioux Falls)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683295.ts
+#EXTINF:-1,USA | CBS (Salt Lake City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683296.ts
+#EXTINF:-1,USA | CBS (Las Vegas)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683298.ts
+#EXTINF:-1,USA | CBS (Spartanburg)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683299.ts
+#EXTINF:-1,USA | CBS (Nashville)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683300.ts
+#EXTINF:-1,USA | CBS (Jacksonville)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683301.ts
+#EXTINF:-1,USA | CBS (Kansas City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683302.ts
+#EXTINF:-1,USA | CBS (Columbus)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683303.ts
+#EXTINF:-1,USA | CBS (Washington)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683304.ts
+#EXTINF:-1,USA | CBS (Hartford)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683305.ts
+#EXTINF:-1,USA | CBS (Phoenix)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683306.ts
+#EXTINF:-1,USA | CBS (Denver)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683307.ts
+#EXTINF:-1,USA | CBS (New Orleans)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683308.ts
+#EXTINF:-1,USA | CBS (Detroit)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683309.ts
+#EXTINF:-1,USA | CBS (Miami)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683310.ts
+#EXTINF:-1,USA | CBS (Oklahoma City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683311.ts
+#EXTINF:-1,USA | CBS (Milwaukee)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683312.ts
+#EXTINF:-1,USA | CBS (Greensboro)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683313.ts
+#EXTINF:-1,USA | CBS (San Antonio)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683314.ts
+#EXTINF:-1,USA | CBS (Pittsburgh)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683315.ts
+#EXTINF:-1,USA | CBS (Chicago)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683316.ts
+#EXTINF:-1,USA | CBS (Minneapolis)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683317.ts
+#EXTINF:-1,USA | CBS (Philadelphia)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683318.ts
+#EXTINF:-1,USA | CBS (San Diego)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683319.ts
+#EXTINF:-1,USA | CBS (Seattle)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683320.ts
+#EXTINF:-1,USA | CBS (Houston)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683321.ts
+#EXTINF:-1,USA | CBS (Honolulu)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683322.ts
+#EXTINF:-1,USA | CBS (Des Moines)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683323.ts
+#EXTINF:-1,USA | CBS (Los Angeles)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683324.ts
+#EXTINF:-1,USA | CBS (Baltimore)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683325.ts
+#EXTINF:-1,USA | CBS (Orlando)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683326.ts
+#EXTINF:-1,USA | CBS (Omaha)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683327.ts
+#EXTINF:-1,USA | CBS (Atlanta)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683328.ts
+#EXTINF:-1,USA | CBS (Charlotte)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683329.ts
+#EXTINF:-1,USA | CBS (Boston)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683330.ts
+#EXTINF:-1,USA | NBC (Seattle)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683331.ts
+#EXTINF:-1,USA | NBC (Montgomery)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683332.ts
+#EXTINF:-1,USA | NBC (Fresno)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683333.ts
+#EXTINF:-1,USA | NBC (Columbus)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683334.ts
+#EXTINF:-1,USA | NBC (Austin)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683335.ts
+#EXTINF:-1,USA | NBC (Houston)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683336.ts
+#EXTINF:-1,USA | NBC (Miami)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683337.ts
+#EXTINF:-1,USA | NBC (Portland ME)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683338.ts
+#EXTINF:-1,USA | NBC (Portland OR)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683339.ts
+#EXTINF:-1,USA | NBC (Minneapolis)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683340.ts
+#EXTINF:-1,USA | NBC (New Orleans)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683341.ts
+#EXTINF:-1,USA | NBC (Sacramento)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683342.ts
+#EXTINF:-1,USA | NBC (Chicago)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683343.ts
+#EXTINF:-1,USA | NBC (Nashville)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683344.ts
+#EXTINF:-1,USA | NBC (Charlotte)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683345.ts
+#EXTINF:-1,USA | NBC (Denver)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683346.ts
+#EXTINF:-1,USA | NBC (Jacksonville)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683347.ts
+#EXTINF:-1,USA | NBC (Buffalo)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683348.ts
+#EXTINF:-1,USA | NBC (Los Angeles)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683349.ts
+#EXTINF:-1,USA | NBC (Cleveland)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683350.ts
+#EXTINF:-1,USA | NBC (Washington NC)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683351.ts
+#EXTINF:-1,USA | NBC (Detroit)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683352.ts
+#EXTINF:-1,USA | NBC (Indianapolis)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683353.ts
+#EXTINF:-1,USA | NBC (Sioux Falls)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683354.ts
+#EXTINF:-1,USA | NBC (Cincinnati)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683355.ts
+#EXTINF:-1,USA | NBC (Washington DC)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683356.ts
+#EXTINF:-1,USA | NBC (Kansas City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683357.ts
+#EXTINF:-1,USA | NBC (Raleigh)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683358.ts
+#EXTINF:-1,USA | NBC (Baltimore)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683359.ts
+#EXTINF:-1,USA | NBC (Honolulu)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683361.ts
+#EXTINF:-1,USA | NBC (Madison)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683362.ts
+#EXTINF:-1,USA | NBC (Atlanta)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683363.ts
+#EXTINF:-1,USA | NBC (Omaha)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683364.ts
+#EXTINF:-1,USA | NBC (Pittsburgh)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683365.ts
+#EXTINF:-1,USA | NBC (Salt Lake City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683366.ts
+#EXTINF:-1,USA | NBC (Columbia)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683367.ts
+#EXTINF:-1,USA | NBC (Green Bay)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683368.ts
+#EXTINF:-1,USA | NBC (San Diego)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683369.ts
+#EXTINF:-1,USA | FOX (Detroit)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683370.ts
+#EXTINF:-1,USA | FOX (Sacramento)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683371.ts
+#EXTINF:-1,USA | FOX (Washington)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683372.ts
+#EXTINF:-1,USA | FOX (Columbus)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683373.ts
+#EXTINF:-1,USA | FOX (Salt Lake City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683374.ts
+#EXTINF:-1,USA | FOX (Buffalo)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683375.ts
+#EXTINF:-1,USA | FOX (New Orleans)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683376.ts
+#EXTINF:-1,USA | FOX (Los Angeles)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683377.ts
+#EXTINF:-1,USA | FOX (Orlando)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683378.ts
+#EXTINF:-1,USA | FOX (Pittsburgh)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683379.ts
+#EXTINF:-1,USA | FOX (Seattle)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683380.ts
+#EXTINF:-1,USA | FOX (Atlanta)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683381.ts
+#EXTINF:-1,USA | FOX (Jacksonville)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683382.ts
+#EXTINF:-1,USA | FOX (Houston)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683383.ts
+#EXTINF:-1,USA | FOX (Baltimore)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683384.ts
+#EXTINF:-1,USA | FOX (Milwaukee)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683385.ts
+#EXTINF:-1,USA | FOX (Cleveland)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683386.ts
+#EXTINF:-1,USA | FOX (Nashville)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683387.ts
+#EXTINF:-1,USA | FOX (Chicago)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683388.ts
+#EXTINF:-1,USA | FOX (Green Bay)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683389.ts
+#EXTINF:-1,USA | FOX (San Antonio)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683390.ts
+#EXTINF:-1,USA | FOX (Honolulu)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683391.ts
+#EXTINF:-1,USA | FOX (Dallas)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683392.ts
+#EXTINF:-1,USA | FOX (Greensboro)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683393.ts
+#EXTINF:-1,USA | FOX (Indianapolis)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683394.ts
+#EXTINF:-1,USA | FOX (Kansas City)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683395.ts
+#EXTINF:-1,USA | FOX (Phoenix)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683396.ts
+#EXTINF:-1,USA | FOX (Austin)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683397.ts
+#EXTINF:-1,USA | FOX (Minneapolis)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/683398.ts
+#EXTINF:-1,USA | GAC Family
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/34323.ts
+#EXTINF:-1,USA | FETV (Family Entertainment TV)
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/60106.ts
+#EXTINF:-1,USA | BALLY Sports Ohio
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49329.ts
+#EXTINF:-1,USA | BALLY Sports Ohio Plus
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49328.ts
+#EXTINF:-1,USA | BALLY Sports New Orleans Plus
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49327.ts
+#EXTINF:-1,USA | BALLY Sports New Orleans
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49326.ts
+#EXTINF:-1,USA | BALLY Sports Florida
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49325.ts
+#EXTINF:-1,USA | BALLY Sports San Diego
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49324.ts
+#EXTINF:-1,USA | BALLY Sports Oklahoma
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49322.ts
+#EXTINF:-1,USA | BALLY Sports San Diego Plus
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49323.ts
+#EXTINF:-1,USA | BALLY Sports Oklahoma Plus
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49321.ts
+#EXTINF:-1,USA | BALLY Sports Wisconsin
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49320.ts
+#EXTINF:-1,USA | BALLY Sports Wisconsin Plus
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49319.ts
+#EXTINF:-1,USA | BALLY Sports SoCal
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49318.ts
+#EXTINF:-1,USA | BALLY Sports Tennesse
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49317.ts
+#EXTINF:-1,USA | BALLY Sports Prime Ticket
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49316.ts
+#EXTINF:-1,USA | BALLY Sports South
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49315.ts
+#EXTINF:-1,USA | BALLY Sports SouthEast
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/49314.ts
+#EXTINF:-1,USA | SPORTSNET West
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/39478.ts
+
